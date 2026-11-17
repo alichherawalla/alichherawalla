@@ -17,7 +17,7 @@ jobs:
             n=$(gh api --paginate "orgs/$o/repos?per_page=100&type=public" --jq '.[] | select(.fork|not) | .stargazers_count' | awk '{s+=$1} END{print s+0}')
             total=$((total+n))
           done
-          sed -i -E "s#(badge/★_stars_across_Off_Grid_AI_%26_Wednesday-)[^-]+(-059669)#\1${total}\2#" README.md
+          sed -i -E "s#(badge/★_stars_across_Off_Grid_AI_%26_Wednesday-)[^-]+(-059669)#\1$(LC_ALL=en_US.UTF-8 numfmt --grouping $total | sed "s/,/%2C/g")\2#" README.md
           if ! git diff --quiet; then
             git config user.name github-actions[bot]
             git config user.email 41898282+github-actions[bot]@users.noreply.github.com
