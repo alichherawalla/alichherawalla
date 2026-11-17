@@ -2,7 +2,7 @@
 
 Your chats, notes and photos shouldn't live on someone else's server. I'm building **[Off Grid AI](https://getoffgridai.co)** so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
 
-I'm CPTO at Off Grid AI and part of [Wednesday Solutions](https://wednesday.is).
+I'm the co-founder and CPTO of **[Off Grid AI](https://getoffgridai.co)**, and co-founder of **[Wednesday Solutions](https://wednesday.is)**.
 
 **What I believe**
 - Your AI should run on your own device.
