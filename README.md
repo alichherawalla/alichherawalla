@@ -1,8 +1,8 @@
 ### Hi, I'm Mac
 
-Your chats, notes and photos shouldn't live on someone else's server. I'm building **[Off Grid AI](https://getoffgridai.co)** so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
+Your chats, notes and photos shouldn't live on someone else's server. I'm building Off Grid AI so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
 
-I'm the co-founder and CPTO of **[Off Grid AI](https://getoffgridai.co)**, and co-founder of **[Wednesday Solutions](https://wednesday.is)**.
+I'm the co-founder of [Off Grid AI](https://getoffgridai.co/), and [Wednesday Solutions](https://wednesday.is/).
 
 **What I believe**
 - Your AI should run on your own device.
@@ -17,7 +17,7 @@ I'm the co-founder and CPTO of **[Off Grid AI](https://getoffgridai.co)**, and c
 |---|---|---|
 | [Off Grid AI for phones](https://github.com/off-grid-ai/OGAM) | Chat, see, speak and make images on your iPhone, Android phone or Mac, fully offline. | ![](https://img.shields.io/github/stars/off-grid-ai/OGAM?style=flat&label=%E2%98%85&color=059669) |
 | [Off Grid AI desktop](https://github.com/off-grid-ai/OGAD) | A private AI assistant for macOS, Windows and Linux, with an OpenAI-compatible API. | ![](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=flat&label=%E2%98%85&color=059669) |
-| [Off Grid AI console](https://github.com/off-grid-ai/OGAC) | Your company's AI on servers you own: every model behind one gateway, your rules set once, and governed apps anyone can build in plain language. | ![](https://img.shields.io/github/stars/off-grid-ai/OGAC?style=flat&label=%E2%98%85&color=059669) |
+| [Off Grid AI console](https://github.com/off-grid-ai/OGAC) | Run your company's AI on servers you own. Every model sits behind one gateway, you set the rules once, and anyone can build apps in plain language. | ![](https://img.shields.io/github/stars/off-grid-ai/OGAC?style=flat&label=%E2%98%85&color=059669) |
 | [Off Grid AI skills](https://github.com/off-grid-ai/skills) | 49 free skills that make Claude Code, Codex, Cursor and 60+ agents build, test and ship like a senior team. | ![](https://img.shields.io/github/stars/off-grid-ai/skills?style=flat&label=%E2%98%85&color=059669) |
 | [Game of Crowns](https://github.com/off-grid-ai/game-of-crowns) | Find out what kind of king you'd be. A free strategy game for Apple Silicon Macs. | ![](https://img.shields.io/github/stars/off-grid-ai/game-of-crowns?style=flat&label=%E2%98%85&color=059669) |
 
