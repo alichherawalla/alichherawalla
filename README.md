@@ -1,8 +1,10 @@
 ### Hi, I'm Mac
 
-I'm building [Off Grid AI](https://getoffgridai.co/), private AI that runs on your own phone and computer, offline, with no account. Hundreds of thousands of people have downloaded it, and it hit #1 on Hacker News. I ship something most days, so follow along to see it as it lands.
+For most of my career I've built at population scale. I've led and worked with teams shipping mobile apps used by tens of millions of people and backends handling billions of API calls, for Fortune 500s and 10% of India's unicorns. Along the way I've written production code at every layer, from infra and backend to frontend, mobile and WebAssembly.
 
-I got here building at population scale. Over the years I've led and worked with teams that shipped mobile apps used by tens of millions of people, backends that handle billions of API calls, and systems that have served billions of devices, for Fortune 500s and 10% of India's unicorns. Along the way I've written production code across infra, backend, frontend, mobile and WebAssembly, in Go, Node, React, React Native, Kafka, GraphQL and serverless AWS. The enterprise templates I wrote at [Wednesday Solutions](https://wednesday.is/) run in production at some of the biggest companies in the world, and teams have forked and cloned them over a hundred thousand times. My code is also merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and dozens of other open source projects.
+I've also given a lot of it back. The enterprise templates I wrote at [Wednesday Solutions](https://wednesday.is/) run in production at some of the biggest companies in the world, teams have forked and cloned them over a hundred thousand times, and my code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and dozens of other open source projects.
+
+Now I'm putting all of that into [Off Grid AI](https://getoffgridai.co/), because I think your AI should run on your own phone and computer, offline, with no account. Hundreds of thousands of people have downloaded it, and it hit #1 on Hacker News. I ship something most days, so follow along to see where it goes.
 
 <p>
 <a href="https://www.star-history.com/alichherawalla"><img src="https://api.star-history.com/badge?user=alichherawalla&year=2026" alt="GitHub Top Committer, Global Rank #118" height="64"></a>
