@@ -1,8 +1,10 @@
 ### Hi, I'm Mac
 
-I'm building private AI that runs on your own phone and computer, offline, with no account. 250k+ people have downloaded it, and it hit #1 on Hacker News. I ship something most days, so follow along to see it as it lands.
+I build software at population scale. My code has served billions of devices and API calls, products I've built have sold for $50M+, and as co-founder and CTO of [Wednesday Solutions](https://wednesday.is/) I've led the engineering for apps that Fortune 500s and 10% of India's unicorns run on.
 
-Before this I spent years building at population scale. My code has served billions of devices and API calls, I've led the engineering for apps that Fortune 500s and 10% of India's unicorns run on, teams have cloned my enterprise templates 140k+ times, and my code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer) and 35+ other open source projects.
+I give a lot of it away, too. Teams have cloned my enterprise templates 140k+ times, my npm packages have 268k downloads, and my code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer) and 35+ other open source projects.
+
+Now I'm building [Off Grid AI](https://getoffgridai.co/), private AI that runs on your own phone and computer, offline, with no account. 250k+ people have downloaded it, and it hit #1 on Hacker News. I ship something most days, so follow along to see it as it lands.
 
 <p>
 <a href="https://www.star-history.com/alichherawalla"><img src="https://api.star-history.com/badge?user=alichherawalla&year=2026" alt="GitHub Top Committer, Global Rank #118" height="64"></a>
