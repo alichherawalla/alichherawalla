@@ -1,6 +1,7 @@
 ### Hi, I'm Mac
 
 [![Top Committer](https://api.star-history.com/badge?user=alichherawalla&year=2026)](https://www.star-history.com/alichherawalla)
+[![Stars](https://img.shields.io/badge/★_stars_across_Off_Grid_AI_%26_Wednesday-5035-059669?style=for-the-badge)](https://github.com/off-grid-ai)
 
 Your chats, notes and photos shouldn't live on someone else's server. I'm building Off Grid AI so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
 
