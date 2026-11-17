@@ -14,7 +14,7 @@ I co-founded [Wednesday Solutions](https://wednesday.is/), which builds for 10% 
 
 **Track record**
 - Took [Off Grid AI](https://github.com/off-grid-ai/OGAM) to #1 on Hacker News and 250k+ downloads across five platforms.
-- Built and ran [Wednesday's enterprise-grade open source](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) since 2019, the base for production apps at unicorns and Fortune 500s: 400 forks and 100k+ clones. It spans React, React Native, Node, Go, GraphQL, Kafka, serverless and AWS infrastructure, with testing, CI and deployment built in.
+- Built and ran [Wednesday's enterprise-grade open source](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) since 2019, the base for production apps at unicorns and Fortune 500s: 400 forks and 100k+ clones, covering everything from infra and backend to frontend, mobile and WebAssembly.
 - Shipped code into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer) and [JSON:API](https://github.com/json-api/json-api), with contributions in 45 organizations.
 - Featured in [awesome-mac](https://github.com/jaywcjlove/awesome-mac), [awesome-ios](https://github.com/vsouza/awesome-ios) and [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps), lists with 220k+ stars between them.
 - npm packages with 268k downloads.
