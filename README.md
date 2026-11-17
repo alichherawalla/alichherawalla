@@ -1,10 +1,8 @@
 ### Hi, I'm Mac
 
-I build software at population scale. My code has served billions of devices and API calls, products I've built have sold for $50M+, and as co-founder and CTO of [Wednesday Solutions](https://wednesday.is/) I've led the engineering for apps that Fortune 500s and 10% of India's unicorns run on.
+I'm building [Off Grid AI](https://getoffgridai.co/), private AI that runs on your own phone and computer, offline, with no account. 250k+ people have downloaded it, and it hit #1 on Hacker News. I ship something most days, so follow along to see it as it lands.
 
-I give a lot of it away, too. Teams have cloned my enterprise templates 140k+ times, my npm packages have 268k downloads, and my code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer) and 35+ other open source projects.
-
-Now I'm building [Off Grid AI](https://getoffgridai.co/), private AI that runs on your own phone and computer, offline, with no account. 250k+ people have downloaded it, and it hit #1 on Hacker News. I ship something most days, so follow along to see it as it lands.
+I got here building at population scale. My code has served billions of devices and API calls, I worked on an Android app 10 million people used before Amazon bought it, and products I've built have sold for $50M+. Since 2019, as co-founder and CTO of [Wednesday Solutions](https://wednesday.is/), I've led the engineering for apps that Fortune 500s and 10% of India's unicorns run on. I wrote most of Wednesday's enterprise templates, which teams have forked 400+ times and cloned 140k+ times, and my code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other open source projects.
 
 <p>
 <a href="https://www.star-history.com/alichherawalla"><img src="https://api.star-history.com/badge?user=alichherawalla&year=2026" alt="GitHub Top Committer, Global Rank #118" height="64"></a>
