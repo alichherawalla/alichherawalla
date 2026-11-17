@@ -1,10 +1,17 @@
 ### Hi, I'm Mac
 
 [![Top Committer](https://api.star-history.com/badge?user=alichherawalla&year=2026)](https://www.star-history.com/alichherawalla) [![Lifetime stars](stars.svg)](https://github.com/off-grid-ai)
+[![Lifetime contributions](contributions.svg)](https://github.com/alichherawalla) [![npm downloads](npm.svg)](https://www.npmjs.com/~alichherawalla)
 
 Your chats, notes and photos shouldn't live on someone else's server. I'm building Off Grid AI so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
 
 I'm the co-founder of [Off Grid AI](https://getoffgridai.co/), and [Wednesday Solutions](https://wednesday.is/).
+
+**Track record**
+- Pull requests merged in 40 organizations, including [AWS Amplify CLI](https://github.com/aws-amplify/amplify-cli/pull/7650), [JSON:API](https://github.com/json-api/json-api/pull/1471), GitHub OCTO's [repo-visualizer](https://github.com/githubocto/repo-visualizer/pull/49) and the [Serverless AppSync Simulator](https://github.com/serverless-appsync/serverless-appsync-simulator/pull/110).
+- Built [Off Grid AI for phones](https://github.com/off-grid-ai/OGAM): 3.4k stars and 100k+ downloads.
+- Lead author of Wednesday's [react-template](https://github.com/wednesday-solutions/react-template) and [react-native-template](https://github.com/wednesday-solutions/react-native-template).
+- npm packages with 268k downloads, led by [react-screentype-hook](https://www.npmjs.com/package/react-screentype-hook).
 
 **What I believe**
 - Your AI should run on your own device.
