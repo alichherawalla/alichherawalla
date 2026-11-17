@@ -10,16 +10,15 @@
 
 Your chats, notes and photos shouldn't live on someone else's server. I'm building Off Grid AI so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
 
-I'm the co-founder of [Off Grid AI](https://getoffgridai.co/), and [Wednesday Solutions](https://wednesday.is/).
+I co-founded [Wednesday Solutions](https://wednesday.is/), which builds for 10% of India's unicorns, including PharmEasy, Rapido, PayU and Kotak Securities. Now I'm co-founder of [Off Grid AI](https://getoffgridai.co/).
 
 **Track record**
-- Shipped a phone app, a desktop app, an enterprise console, 49 agent skills and a strategy game, all in 2026.
-- 30k+ contributions this year alone, the #118 committer on GitHub worldwide.
-- Took [Off Grid AI for phones](https://github.com/off-grid-ai/OGAM) from zero to 100k+ downloads and 3.4k stars.
+- Took [Off Grid AI](https://github.com/off-grid-ai/OGAM) to #1 on Hacker News and 250k+ downloads across five platforms.
 - Built and ran [Wednesday's open source](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) since 2019: 88 repos and 100k+ clones.
 - Shipped code into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer) and [JSON:API](https://github.com/json-api/json-api), with contributions in 45 organizations.
 - Featured in [awesome-mac](https://github.com/jaywcjlove/awesome-mac), [awesome-ios](https://github.com/vsouza/awesome-ios) and [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps), lists with 220k+ stars between them.
 - npm packages with 268k downloads.
+- 43k+ contributions on GitHub, and the #118 committer in the world this year.
 
 <p><a href="https://github.com/aws-amplify" title="AWS Amplify"><img src="https://github.com/aws-amplify.png?size=80" alt="AWS Amplify" width="40" height="40"></a> <a href="https://github.com/githubocto" title="GitHub OCTO"><img src="https://github.com/githubocto.png?size=80" alt="GitHub OCTO" width="40" height="40"></a> <a href="https://github.com/reduxjs" title="Redux"><img src="https://github.com/reduxjs.png?size=80" alt="Redux" width="40" height="40"></a> <a href="https://github.com/deepseek-ai" title="DeepSeek"><img src="https://github.com/deepseek-ai.png?size=80" alt="DeepSeek" width="40" height="40"></a> <a href="https://github.com/json-api" title="JSON:API"><img src="https://github.com/json-api.png?size=80" alt="JSON:API" width="40" height="40"></a> <a href="https://github.com/flipkart-incubator" title="Flipkart"><img src="https://github.com/flipkart-incubator.png?size=80" alt="Flipkart" width="40" height="40"></a> <a href="https://github.com/janhq" title="Jan"><img src="https://github.com/janhq.png?size=80" alt="Jan" width="40" height="40"></a> <a href="https://github.com/e2b-dev" title="E2B"><img src="https://github.com/e2b-dev.png?size=80" alt="E2B" width="40" height="40"></a> <a href="https://github.com/VoltAgent" title="VoltAgent"><img src="https://github.com/VoltAgent.png?size=80" alt="VoltAgent" width="40" height="40"></a> <a href="https://github.com/RunaCapital" title="Runa Capital"><img src="https://github.com/RunaCapital.png?size=80" alt="Runa Capital" width="40" height="40"></a> <a href="https://github.com/bleenco" title="ngx-uploader"><img src="https://github.com/bleenco.png?size=80" alt="ngx-uploader" width="40" height="40"></a> <a href="https://github.com/serverless-appsync" title="Serverless AppSync"><img src="https://github.com/serverless-appsync.png?size=80" alt="Serverless AppSync" width="40" height="40"></a></p>
 
