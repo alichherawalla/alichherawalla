@@ -8,15 +8,16 @@
 <a href="https://www.npmjs.com/~alichherawalla"><img src="npm.svg" alt="npm downloads" height="64"></a>
 </p>
 
-I've built at population scale for 22 years. My code has served billions of devices and API calls, and products I've built have sold for $50M+. I co-founded [Wednesday Solutions](https://wednesday.is/) in 2019, and as CTO I built the engineering behind apps that Fortune 500s and 10% of India's unicorns run on. Now I'm building [Off Grid AI](https://getoffgridai.co/), so your AI runs on your own phone and computer, offline, with no account.
+I've spent 22 years building software that has to work for millions of people, and I share what I learn so you can ship faster too.
 
-**What I've shipped**
-- [Off Grid AI](https://github.com/off-grid-ai/OGAM) put private AI on 250k+ devices across five platforms and went #1 on Hacker News.
-- At Wednesday, my teams cut one client's mobile spend by $1.8M a year and took another from an AI mandate to the App Store in 90 days. Clients rate us [4.8 on Clutch](https://clutch.co/profile/wednesday-solutions).
-- [Wednesday's enterprise templates](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars), which I wrote most of and have run since 2019, give teams a production-ready start from infra to backend, frontend, mobile and WebAssembly. Fortune 500s run them in production, and teams have forked them 400+ times and cloned them over 140k times.
-- My code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other open source projects.
-- 43k contributions on GitHub, and the #118 committer in the world this year.
-- npm packages with 268k downloads, 486 articles on DEV, and the engineering playbook Wednesday runs on.
+At [Wednesday Solutions](https://wednesday.is/), which I co-founded in 2019, my teams build apps for Fortune 500s and 10% of India's unicorns. Now I'm building [Off Grid AI](https://getoffgridai.co/), because I think your AI should run on your own phone and computer, offline, with no account.
+
+**Things you can use**
+- [Off Grid AI](https://github.com/off-grid-ai/OGAM) runs AI privately on your phone and computer. It's been downloaded 250k+ times and hit #1 on Hacker News.
+- [Wednesday's templates](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) give you a production-ready start for infra, backend, frontend and mobile. I wrote most of them, and teams have forked them 400+ times and cloned them 140k+ times.
+- My [npm packages](https://www.npmjs.com/~alichherawalla) have 268k downloads, and I've written 486 [articles on DEV](https://dev.to/alichherawalla).
+
+My code is also merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other open source projects.
 
 <p><a href="https://github.com/aws-amplify" title="AWS Amplify"><img src="https://github.com/aws-amplify.png?size=80" alt="AWS Amplify" width="40" height="40"></a> <a href="https://github.com/githubocto" title="GitHub OCTO"><img src="https://github.com/githubocto.png?size=80" alt="GitHub OCTO" width="40" height="40"></a> <a href="https://github.com/json-api" title="JSON:API"><img src="https://github.com/json-api.png?size=80" alt="JSON:API" width="40" height="40"></a> <a href="https://github.com/serverless-appsync" title="Serverless AppSync"><img src="https://github.com/serverless-appsync.png?size=80" alt="Serverless AppSync" width="40" height="40"></a> <a href="https://github.com/bleenco" title="ngx-uploader"><img src="https://github.com/bleenco.png?size=80" alt="ngx-uploader" width="40" height="40"></a> <a href="https://github.com/backblaze-labs" title="Backblaze Labs"><img src="https://github.com/backblaze-labs.png?size=80" alt="Backblaze Labs" width="40" height="40"></a> <a href="https://github.com/rehooks" title="rehooks"><img src="https://github.com/rehooks.png?size=80" alt="rehooks" width="40" height="40"></a> <a href="https://github.com/xlite-dev" title="xlite-dev"><img src="https://github.com/xlite-dev.png?size=80" alt="xlite-dev" width="40" height="40"></a> <a href="https://github.com/TensorBlock" title="TensorBlock"><img src="https://github.com/TensorBlock.png?size=80" alt="TensorBlock" width="40" height="40"></a> <a href="https://github.com/ReactNativeNews" title="React Native News"><img src="https://github.com/ReactNativeNews.png?size=80" alt="React Native News" width="40" height="40"></a></p>
 
