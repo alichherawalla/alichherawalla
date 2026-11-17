@@ -13,12 +13,15 @@ Your chats, notes and photos shouldn't live on someone else's server. I'm buildi
 I'm the co-founder of [Off Grid AI](https://getoffgridai.co/), and [Wednesday Solutions](https://wednesday.is/).
 
 **Track record**
-- Pull requests merged in 40 organizations.
 - Built [Off Grid AI for phones](https://github.com/off-grid-ai/OGAM): 3.4k stars and 100k+ downloads.
 - Lead author of Wednesday's [react-template](https://github.com/wednesday-solutions/react-template) and [react-native-template](https://github.com/wednesday-solutions/react-native-template).
 - npm packages with 268k downloads, led by [react-screentype-hook](https://www.npmjs.com/package/react-screentype-hook).
 
 **Open source I've shipped into**
+
+Contributed to 45 organizations on GitHub, including:
+
+<p><a href="https://github.com/aws-amplify" title="AWS Amplify"><img src="https://github.com/aws-amplify.png?size=80" alt="AWS Amplify" width="40" height="40"></a> <a href="https://github.com/githubocto" title="GitHub OCTO"><img src="https://github.com/githubocto.png?size=80" alt="GitHub OCTO" width="40" height="40"></a> <a href="https://github.com/reduxjs" title="Redux"><img src="https://github.com/reduxjs.png?size=80" alt="Redux" width="40" height="40"></a> <a href="https://github.com/deepseek-ai" title="DeepSeek"><img src="https://github.com/deepseek-ai.png?size=80" alt="DeepSeek" width="40" height="40"></a> <a href="https://github.com/json-api" title="JSON:API"><img src="https://github.com/json-api.png?size=80" alt="JSON:API" width="40" height="40"></a> <a href="https://github.com/flipkart-incubator" title="Flipkart"><img src="https://github.com/flipkart-incubator.png?size=80" alt="Flipkart" width="40" height="40"></a> <a href="https://github.com/99designs" title="99designs"><img src="https://github.com/99designs.png?size=80" alt="99designs" width="40" height="40"></a> <a href="https://github.com/janhq" title="Jan"><img src="https://github.com/janhq.png?size=80" alt="Jan" width="40" height="40"></a> <a href="https://github.com/e2b-dev" title="E2B"><img src="https://github.com/e2b-dev.png?size=80" alt="E2B" width="40" height="40"></a> <a href="https://github.com/VoltAgent" title="VoltAgent"><img src="https://github.com/VoltAgent.png?size=80" alt="VoltAgent" width="40" height="40"></a> <a href="https://github.com/RunaCapital" title="Runa Capital"><img src="https://github.com/RunaCapital.png?size=80" alt="Runa Capital" width="40" height="40"></a> <a href="https://github.com/backblaze-labs" title="Backblaze Labs"><img src="https://github.com/backblaze-labs.png?size=80" alt="Backblaze Labs" width="40" height="40"></a> <a href="https://github.com/composio-community" title="Composio"><img src="https://github.com/composio-community.png?size=80" alt="Composio" width="40" height="40"></a> <a href="https://github.com/serverless-appsync" title="Serverless AppSync"><img src="https://github.com/serverless-appsync.png?size=80" alt="Serverless AppSync" width="40" height="40"></a></p>
 
 | Project | Stars | What I did |
 |---|---|---|
