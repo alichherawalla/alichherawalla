@@ -8,7 +8,7 @@
 <a href="https://www.npmjs.com/~alichherawalla"><img src="npm.svg" alt="npm downloads" height="64"></a>
 </p>
 
-I've spent 22 years turning code into businesses. Before I turned 24, I'd helped ship an Android app to 10 million users at 99.98% crash-free (Amazon bought it), built services that took a billion API calls a day for a company that became a unicorn, and shipped products that sold for over $50M.
+I've built at population scale again and again for 22 years, and my code has served billions of devices and API calls. Before I turned 24, I'd helped ship an Android app to 10 million users at 99.98% crash-free (Amazon bought it), built services that took a billion API calls a day for a company that became a unicorn, and shipped products that sold for over $50M.
 
 In 2019 I co-founded [Wednesday Solutions](https://wednesday.is/) as CTO, and my teams now build the apps that Fortune 500s and 10% of India's unicorns run on. We've cut one client's mobile spend by $1.8M a year and taken another from an AI mandate to the App Store in 90 days. Clients rate us [4.8 on Clutch](https://clutch.co/profile/wednesday-solutions).
 
