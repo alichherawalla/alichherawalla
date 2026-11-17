@@ -8,17 +8,14 @@
 <a href="https://www.npmjs.com/~alichherawalla"><img src="npm.svg" alt="npm downloads" height="64"></a>
 </p>
 
-Your chats, notes and photos shouldn't live on someone else's server. I'm building Off Grid AI so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
+I co-founded [Wednesday Solutions](https://wednesday.is/) and built the engineering behind apps at 10% of India's unicorns, PharmEasy, Rapido, PayU and Kotak Securities among them. Now I'm building [Off Grid AI](https://getoffgridai.co/), so your AI runs on your own phone and computer, offline, with no account.
 
-I co-founded [Wednesday Solutions](https://wednesday.is/), which builds for 10% of India's unicorns, including PharmEasy, Rapido, PayU and Kotak Securities. Now I'm co-founder of [Off Grid AI](https://getoffgridai.co/).
-
-**Track record**
-- Took [Off Grid AI](https://github.com/off-grid-ai/OGAM) to #1 on Hacker News and 250k+ downloads across five platforms.
-- Built and ran [Wednesday's enterprise-grade open source](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) since 2019, the base for production apps at unicorns and Fortune 500s: 400 forks and 100k+ clones, covering everything from infra and backend to frontend, mobile and WebAssembly.
-- Code merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other projects.
-- Featured in [awesome-mac](https://github.com/jaywcjlove/awesome-mac), [awesome-ios](https://github.com/vsouza/awesome-ios) and [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps), lists with 220k+ stars between them.
+**What I've shipped**
+- [Off Grid AI](https://github.com/off-grid-ai/OGAM) hit #1 on Hacker News and crossed 250k downloads across five platforms.
+- [Wednesday's open source](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars), which I've run since 2019, gives teams production-ready starters from infra to mobile. It's been forked 400 times and cloned 100k+ times.
+- My code is in [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other projects.
+- 43k contributions on GitHub, and the #118 committer in the world this year.
 - npm packages with 268k downloads.
-- 43k+ contributions on GitHub, and the #118 committer in the world this year.
 
 <p><a href="https://github.com/aws-amplify" title="AWS Amplify"><img src="https://github.com/aws-amplify.png?size=80" alt="AWS Amplify" width="40" height="40"></a> <a href="https://github.com/githubocto" title="GitHub OCTO"><img src="https://github.com/githubocto.png?size=80" alt="GitHub OCTO" width="40" height="40"></a> <a href="https://github.com/json-api" title="JSON:API"><img src="https://github.com/json-api.png?size=80" alt="JSON:API" width="40" height="40"></a> <a href="https://github.com/serverless-appsync" title="Serverless AppSync"><img src="https://github.com/serverless-appsync.png?size=80" alt="Serverless AppSync" width="40" height="40"></a> <a href="https://github.com/bleenco" title="ngx-uploader"><img src="https://github.com/bleenco.png?size=80" alt="ngx-uploader" width="40" height="40"></a> <a href="https://github.com/backblaze-labs" title="Backblaze Labs"><img src="https://github.com/backblaze-labs.png?size=80" alt="Backblaze Labs" width="40" height="40"></a> <a href="https://github.com/rehooks" title="rehooks"><img src="https://github.com/rehooks.png?size=80" alt="rehooks" width="40" height="40"></a> <a href="https://github.com/xlite-dev" title="xlite-dev"><img src="https://github.com/xlite-dev.png?size=80" alt="xlite-dev" width="40" height="40"></a> <a href="https://github.com/TensorBlock" title="TensorBlock"><img src="https://github.com/TensorBlock.png?size=80" alt="TensorBlock" width="40" height="40"></a> <a href="https://github.com/ReactNativeNews" title="React Native News"><img src="https://github.com/ReactNativeNews.png?size=80" alt="React Native News" width="40" height="40"></a></p>
 
