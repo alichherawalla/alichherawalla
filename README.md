@@ -13,6 +13,8 @@ Your chats, notes and photos shouldn't live on someone else's server. I'm buildi
 I'm the co-founder of [Off Grid AI](https://getoffgridai.co/), and [Wednesday Solutions](https://wednesday.is/).
 
 **Track record**
+- Shipped a phone app, a desktop app, an enterprise console, 49 agent skills and a strategy game, all in 2026.
+- 30k+ contributions this year alone, the #118 committer on GitHub worldwide.
 - Took [Off Grid AI for phones](https://github.com/off-grid-ai/OGAM) from zero to 100k+ downloads and 3.4k stars.
 - Built and ran [Wednesday's open source](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) since 2019: 88 repos and 100k+ clones.
 - Shipped code into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer) and [JSON:API](https://github.com/json-api/json-api), with contributions in 45 organizations.
