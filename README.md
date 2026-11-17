@@ -10,7 +10,7 @@
 
 I've been writing code for 22 years and shipping products for 15. Before I turned 24, I was the youngest of four engineers on an Android app that served 10 million users at 99.98% crash-free (Amazon bought it), I built services that took a billion API calls a day for a company that became a unicorn, and I shipped products that sold for over $50M.
 
-In 2019 I co-founded [Wednesday Solutions](https://wednesday.is/) as CTO. Since then my teams have built the apps behind American Express, Visa, Discover, EY and 10% of India's unicorns, PharmEasy, Rapido, PayU and Kotak Securities among them.
+In 2019 I co-founded [Wednesday Solutions](https://wednesday.is/) as CTO. Since then my teams have built for 50+ global brands, including American Express, Visa, Discover, EY, Smarsh, Kalshi, BuildOps and Kunai, and for 10% of India's unicorns, like PharmEasy, Rapido, PayU and Kotak Securities. Clients rate us [4.8 on Clutch](https://clutch.co/profile/wednesday-solutions) across 25 verified reviews.
 
 Now I'm building [Off Grid AI](https://getoffgridai.co/), so your AI runs on your own phone and computer, offline, with no account.
 
