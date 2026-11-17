@@ -8,14 +8,18 @@
 <a href="https://www.npmjs.com/~alichherawalla"><img src="npm.svg" alt="npm downloads" height="64"></a>
 </p>
 
-I co-founded [Wednesday Solutions](https://wednesday.is/) and built the engineering behind apps at 10% of India's unicorns, PharmEasy, Rapido, PayU and Kotak Securities among them. Now I'm building [Off Grid AI](https://getoffgridai.co/), so your AI runs on your own phone and computer, offline, with no account.
+I've been writing code for 22 years and shipping products for 15. Before I turned 24, I was the youngest of four engineers on an Android app that served 10 million users at 99.98% crash-free (Amazon bought it), I built services that took a billion API calls a day for a company that became a unicorn, and I shipped products that sold for over $50M.
+
+In 2019 I co-founded [Wednesday Solutions](https://wednesday.is/) as CTO. Since then my teams have built the apps behind American Express, Visa, Discover, EY and 10% of India's unicorns, PharmEasy, Rapido, PayU and Kotak Securities among them.
+
+Now I'm building [Off Grid AI](https://getoffgridai.co/), so your AI runs on your own phone and computer, offline, with no account.
 
 **What I've shipped**
-- [Off Grid AI](https://github.com/off-grid-ai/OGAM) hit #1 on Hacker News and crossed 250k downloads across five platforms.
-- [Wednesday's open source](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars), which I've run since 2019, gives teams production-ready starters from infra to mobile. It's been forked 400 times and cloned 100k+ times.
-- My code is in [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other projects.
+- [Off Grid AI](https://github.com/off-grid-ai/OGAM) went #1 on Hacker News and passed 250k downloads across five platforms.
+- I wrote most of [Wednesday's enterprise templates](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) and have run them since 2019. They cover infra, backend, frontend, mobile and WebAssembly, they power Fortune 500 apps in production, and teams have forked them 400+ times and cloned them over 140k times.
+- My code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other open source projects.
 - 43k contributions on GitHub, and the #118 committer in the world this year.
-- npm packages with 268k downloads.
+- npm packages with 268k downloads, 486 articles on DEV, and the engineering playbook Wednesday runs on.
 
 <p><a href="https://github.com/aws-amplify" title="AWS Amplify"><img src="https://github.com/aws-amplify.png?size=80" alt="AWS Amplify" width="40" height="40"></a> <a href="https://github.com/githubocto" title="GitHub OCTO"><img src="https://github.com/githubocto.png?size=80" alt="GitHub OCTO" width="40" height="40"></a> <a href="https://github.com/json-api" title="JSON:API"><img src="https://github.com/json-api.png?size=80" alt="JSON:API" width="40" height="40"></a> <a href="https://github.com/serverless-appsync" title="Serverless AppSync"><img src="https://github.com/serverless-appsync.png?size=80" alt="Serverless AppSync" width="40" height="40"></a> <a href="https://github.com/bleenco" title="ngx-uploader"><img src="https://github.com/bleenco.png?size=80" alt="ngx-uploader" width="40" height="40"></a> <a href="https://github.com/backblaze-labs" title="Backblaze Labs"><img src="https://github.com/backblaze-labs.png?size=80" alt="Backblaze Labs" width="40" height="40"></a> <a href="https://github.com/rehooks" title="rehooks"><img src="https://github.com/rehooks.png?size=80" alt="rehooks" width="40" height="40"></a> <a href="https://github.com/xlite-dev" title="xlite-dev"><img src="https://github.com/xlite-dev.png?size=80" alt="xlite-dev" width="40" height="40"></a> <a href="https://github.com/TensorBlock" title="TensorBlock"><img src="https://github.com/TensorBlock.png?size=80" alt="TensorBlock" width="40" height="40"></a> <a href="https://github.com/ReactNativeNews" title="React Native News"><img src="https://github.com/ReactNativeNews.png?size=80" alt="React Native News" width="40" height="40"></a></p>
 
