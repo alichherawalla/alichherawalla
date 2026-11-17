@@ -8,16 +8,13 @@
 <a href="https://www.npmjs.com/~alichherawalla"><img src="npm.svg" alt="npm downloads" height="64"></a>
 </p>
 
-I build software that lots of people use every day, and I like giving away the parts that help you build too.
+Billions of devices and API calls have run on code I've written, and the code I've given away has helped teams everywhere ship faster.
 
-I co-founded [Wednesday Solutions](https://wednesday.is/) in 2019, where my teams build apps for Fortune 500s and startups. Most of my time now goes into [Off Grid AI](https://getoffgridai.co/), because I think your AI should run on your own phone and computer, offline, with no account.
+Most of my career has been building at population scale. I worked on an Android app that 10 million people used (Amazon later bought it), services that took a billion API calls a day, and products that sold for $50M+. Since 2019, as co-founder and CTO of [Wednesday Solutions](https://wednesday.is/), I've led the engineering behind apps that Fortune 500s and 10% of India's unicorns run on.
 
-**Things you can use**
-- [Off Grid AI](https://github.com/off-grid-ai/OGAM) runs AI privately on your phone and computer.
-- [Wednesday's templates](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) give you a production-ready start for infra, backend, frontend and mobile. I wrote most of them.
-- A few [npm packages](https://www.npmjs.com/~alichherawalla) and a lot of [articles on DEV](https://dev.to/alichherawalla) about what I've learned shipping.
+Along the way I've tried to give back what I learned. The enterprise templates I wrote cover infra, backend, frontend, mobile and WebAssembly, Fortune 500s run them in production, and teams have forked them 400+ times and cloned them 140k+ times. My npm packages have 268k downloads, I've written 486 articles on DEV, and my code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other open source projects.
 
-I also send fixes to projects I use, like [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer) and [JSON:API](https://github.com/json-api/json-api).
+Now I'm putting private AI in people's hands. [Off Grid AI](https://getoffgridai.co/), which I'm building, has been downloaded 250k+ times and runs on your own phone and computer, offline, with no account.
 
 <p><a href="https://github.com/aws-amplify" title="AWS Amplify"><img src="https://github.com/aws-amplify.png?size=80" alt="AWS Amplify" width="40" height="40"></a> <a href="https://github.com/githubocto" title="GitHub OCTO"><img src="https://github.com/githubocto.png?size=80" alt="GitHub OCTO" width="40" height="40"></a> <a href="https://github.com/json-api" title="JSON:API"><img src="https://github.com/json-api.png?size=80" alt="JSON:API" width="40" height="40"></a> <a href="https://github.com/serverless-appsync" title="Serverless AppSync"><img src="https://github.com/serverless-appsync.png?size=80" alt="Serverless AppSync" width="40" height="40"></a> <a href="https://github.com/bleenco" title="ngx-uploader"><img src="https://github.com/bleenco.png?size=80" alt="ngx-uploader" width="40" height="40"></a> <a href="https://github.com/backblaze-labs" title="Backblaze Labs"><img src="https://github.com/backblaze-labs.png?size=80" alt="Backblaze Labs" width="40" height="40"></a> <a href="https://github.com/rehooks" title="rehooks"><img src="https://github.com/rehooks.png?size=80" alt="rehooks" width="40" height="40"></a> <a href="https://github.com/xlite-dev" title="xlite-dev"><img src="https://github.com/xlite-dev.png?size=80" alt="xlite-dev" width="40" height="40"></a> <a href="https://github.com/TensorBlock" title="TensorBlock"><img src="https://github.com/TensorBlock.png?size=80" alt="TensorBlock" width="40" height="40"></a> <a href="https://github.com/ReactNativeNews" title="React Native News"><img src="https://github.com/ReactNativeNews.png?size=80" alt="React Native News" width="40" height="40"></a></p>
 
