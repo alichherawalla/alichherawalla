@@ -8,15 +8,15 @@
 <a href="https://www.npmjs.com/~alichherawalla"><img src="npm.svg" alt="npm downloads" height="64"></a>
 </p>
 
-I've been writing code for 22 years and shipping products for 15. Before I turned 24, I was the youngest of four engineers on an Android app that served 10 million users at 99.98% crash-free (Amazon bought it), I built services that took a billion API calls a day for a company that became a unicorn, and I shipped products that sold for over $50M.
+I've spent 22 years turning code into businesses. Before I turned 24, I'd helped ship an Android app to 10 million users at 99.98% crash-free (Amazon bought it), built services that took a billion API calls a day for a company that became a unicorn, and shipped products that sold for over $50M.
 
-In 2019 I co-founded [Wednesday Solutions](https://wednesday.is/) as CTO. Since then my teams have shipped for a long list of Fortune 500s, American Express, Visa and Discover among them, for global names like EY, Smarsh, Kalshi, BuildOps and Kunai, and for 10% of India's unicorns, like PharmEasy, Rapido, PayU and Kotak Securities. Clients rate us [4.8 on Clutch](https://clutch.co/profile/wednesday-solutions) across 25 verified reviews.
+In 2019 I co-founded [Wednesday Solutions](https://wednesday.is/) as CTO, and my teams now build the apps that Fortune 500s and 10% of India's unicorns run on. We've cut one client's mobile spend by $1.8M a year and taken another from an AI mandate to the App Store in 90 days. Clients rate us [4.8 on Clutch](https://clutch.co/profile/wednesday-solutions).
 
 Now I'm building [Off Grid AI](https://getoffgridai.co/), so your AI runs on your own phone and computer, offline, with no account.
 
 **What I've shipped**
-- [Off Grid AI](https://github.com/off-grid-ai/OGAM) went #1 on Hacker News and passed 250k downloads across five platforms.
-- I wrote most of [Wednesday's enterprise templates](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars) and have run them since 2019. They cover infra, backend, frontend, mobile and WebAssembly, they power Fortune 500 apps in production, and teams have forked them 400+ times and cloned them over 140k times.
+- [Off Grid AI](https://github.com/off-grid-ai/OGAM) put private AI on 250k+ devices across five platforms and went #1 on Hacker News.
+- [Wednesday's enterprise templates](https://github.com/orgs/wednesday-solutions/repositories?q=visibility%3Apublic+archived%3Afalse+sort%3Astars), which I wrote most of and have run since 2019, give teams a production-ready start from infra to backend, frontend, mobile and WebAssembly. Fortune 500s run them in production, and teams have forked them 400+ times and cloned them over 140k times.
 - My code is merged into [AWS Amplify](https://github.com/aws-amplify/amplify-cli), [GitHub OCTO](https://github.com/githubocto/repo-visualizer), [JSON:API](https://github.com/json-api/json-api) and 35+ other open source projects.
 - 43k contributions on GitHub, and the #118 committer in the world this year.
 - npm packages with 268k downloads, 486 articles on DEV, and the engineering playbook Wednesday runs on.
