@@ -18,6 +18,8 @@ I'm the co-founder and CPTO of **[Off Grid AI](https://getoffgridai.co)**, and c
 | [Off Grid AI for phones](https://github.com/off-grid-ai/OGAM) | Chat, see, speak and make images on your iPhone, Android phone or Mac, fully offline. | ![](https://img.shields.io/github/stars/off-grid-ai/OGAM?style=flat&label=%E2%98%85&color=059669) |
 | [Off Grid AI desktop](https://github.com/off-grid-ai/OGAD) | A private AI assistant for macOS, Windows and Linux, with an OpenAI-compatible API. | ![](https://img.shields.io/github/stars/off-grid-ai/OGAD?style=flat&label=%E2%98%85&color=059669) |
 | [Off Grid AI console](https://github.com/off-grid-ai/OGAC) | One gateway for every model your company uses, on servers you own. | ![](https://img.shields.io/github/stars/off-grid-ai/OGAC?style=flat&label=%E2%98%85&color=059669) |
+| [Off Grid AI skills](https://github.com/off-grid-ai/skills) | 42 free skills that make Claude Code, Codex, Cursor and 60+ agents build, test and ship like a senior team. | ![](https://img.shields.io/github/stars/off-grid-ai/skills?style=flat&label=%E2%98%85&color=059669) |
+| [Game of Crowns](https://github.com/off-grid-ai/game-of-crowns) | Find out what kind of king you'd be. A free strategy game for Apple Silicon Macs. | ![](https://img.shields.io/github/stars/off-grid-ai/game-of-crowns?style=flat&label=%E2%98%85&color=059669) |
 
 [![Top Committer](https://api.star-history.com/badge?user=alichherawalla&year=2026)](https://www.star-history.com/alichherawalla)
 
