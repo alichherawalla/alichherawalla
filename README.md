@@ -1,7 +1,12 @@
 ### Hi, I'm Mac
 
-[![Top Committer](https://api.star-history.com/badge?user=alichherawalla&year=2026)](https://www.star-history.com/alichherawalla) [![Lifetime stars](stars.svg)](https://github.com/off-grid-ai)
-[![Lifetime contributions](contributions.svg)](https://github.com/alichherawalla) [![npm downloads](npm.svg)](https://www.npmjs.com/~alichherawalla)
+<p>
+<a href="https://www.star-history.com/alichherawalla"><img src="https://api.star-history.com/badge?user=alichherawalla&year=2026" alt="GitHub Top Committer, Global Rank #118" height="64"></a>
+<a href="https://github.com/off-grid-ai"><img src="stars.svg" alt="Lifetime stars" height="64"></a>
+<br>
+<a href="https://github.com/alichherawalla"><img src="contributions.svg" alt="Lifetime contributions" height="64"></a>
+<a href="https://www.npmjs.com/~alichherawalla"><img src="npm.svg" alt="npm downloads" height="64"></a>
+</p>
 
 Your chats, notes and photos shouldn't live on someone else's server. I'm building Off Grid AI so your AI runs on your own phone and computer, offline, with no account. You pay once and it's yours.
 

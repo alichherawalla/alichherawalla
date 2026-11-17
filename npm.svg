@@ -13,6 +13,4 @@
     <text x="66" y="25" font-size="8.5" letter-spacing="1.2" fill="#9aa1ab" font-weight="600">NPM DOWNLOADS</text>
     <text x="66" y="45" font-size="16" fill="#f0f2f5" font-weight="500">268k</text>
   </g>
-  <path d="M213 1 H244 V44 L228.5 37 L213 44 Z" fill="url(#r)"/>
-  <path d="M228.5 12.5 l2.1 5.1 5.4 .4 -4.1 3.5 1.3 5.3 -4.7 -2.9 -4.7 2.9 1.3 -5.3 -4.1 -3.5 5.4 -.4 Z" fill="#fff"/>
 </svg>

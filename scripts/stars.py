@@ -70,8 +70,6 @@ def card(label, value, icon):
     <text x="66" y="25" font-size="8.5" letter-spacing="1.2" fill="#9aa1ab" font-weight="600">{label}</text>
     <text x="66" y="45" font-size="16" fill="#f0f2f5" font-weight="500">{value}</text>
   </g>
-  <path d="M213 1 H244 V44 L228.5 37 L213 44 Z" fill="url(#r)"/>
-  <path d="{STAR.format(x=228.5, y=12.5).replace('l2.9 7.1 7.6 .6 -5.8 4.9 1.8 7.4 -6.5 -4 -6.5 4 1.8 -7.4 -5.8 -4.9 7.6 -.6', 'l2.1 5.1 5.4 .4 -4.1 3.5 1.3 5.3 -4.7 -2.9 -4.7 2.9 1.3 -5.3 -4.1 -3.5 5.4 -.4')}" fill="#fff"/>
 </svg>
 '''
 
