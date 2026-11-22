@@ -11,6 +11,6 @@
   <circle cx="34" cy="32" r="5.5" stroke="#c5cbd3" stroke-width="2.4"/><path d="M21 32h7.5M39.5 32H47" stroke="#c5cbd3" stroke-width="2.4" stroke-linecap="round"/>
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
     <text x="66" y="25" font-size="8.5" letter-spacing="1.2" fill="#9aa1ab" font-weight="600">LIFETIME CONTRIBUTIONS</text>
-    <text x="66" y="45" font-size="16" fill="#f0f2f5" font-weight="500">43.9k</text>
+    <text x="66" y="45" font-size="16" fill="#f0f2f5" font-weight="500">44.0k</text>
   </g>
 </svg>
